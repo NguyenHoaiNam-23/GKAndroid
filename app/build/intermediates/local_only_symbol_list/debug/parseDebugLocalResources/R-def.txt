@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnLogin
+id btnback
+id edEmail
+id edMail
+id edPass
+id edPassword
+id main
+id textView
+id textView2
+id textView3
+id textView4
+id textView5
+id textView6
+layout activity_main
+layout activity_second
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.KTGK
+style Theme.KTGK
+xml backup_rules
+xml data_extraction_rules
